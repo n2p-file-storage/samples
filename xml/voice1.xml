@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say voice="alice">Hello! This is a message that is going to be used to check that a good audio connection has been established. In a while we will play you some nice music. Enjoy!</Say>
+	<Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
